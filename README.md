@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Game development using Godot**
 
-- 💬 Ask me about **python , css**
+- 💬 Ask me about **python**
 
 - 📫 How to reach me **jeswingiss2112@gmail.com**
 
